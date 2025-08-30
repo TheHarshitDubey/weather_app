@@ -5,19 +5,14 @@ This is a simple Weather App I built using Flutter. It shows real-time weather d
 ✨ Features
 
 🚀 Splash screen with custom logo
-
 🎨 Simple and user-friendly UI
-
 📊 Weather details: temperature, humidity, wind speed, and condition
 
 ⚡ Real-time data using OpenWeather API
 
 🛠 Tech Used
-
 Flutter & Dart
-
 OpenWeather API (for fetching weather data)
-
 State management with plain setState
 
 🚀 How to Run
