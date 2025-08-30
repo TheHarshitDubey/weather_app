@@ -33,13 +33,13 @@ flutter run
 ## 📸 Screenshots  
 
 ### App Logo  
-![Splash Screen](./screenshots/WhatsApp Image 2025-08-30 at 9.35.05 AM (2).jpeg)  
+![Splash Screen](./screenshots/logo.jpg)  
 
 ### Splash Screen  
-![Home Page](./screenshots/WhatsApp Image 2025-08-30 at 9.35.05 AM (1).jpeg)  
+![Home Page](./screenshots/splash.jpg)  
 
 ### Weather Details  
-![Weather Page](./screenshots/WhatsApp Image 2025-08-30 at 9.35.05 AM.jpeg)  
+![Weather Page](./screenshots/home.jpg)  
 
 📂 Project Structure
 lib/
