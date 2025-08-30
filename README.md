@@ -11,6 +11,7 @@ This is a simple Weather App I built using Flutter. It shows real-time weather d
 ⚡ Real-time data using OpenWeather API
 
 🛠 Tech Used
+
 Flutter & Dart
 OpenWeather API (for fetching weather data)
 State management with plain setState
@@ -33,13 +34,13 @@ flutter run
 ## 📸 Screenshots  
 
 ### App Logo  
-![Splash Screen](./screenshots/logo.jpg)  
+![Splash Screen](./screenshots/logo.png)  
 
 ### Splash Screen  
-![Home Page](./screenshots/splash.jpg)  
+![Home Page](./screenshots/splash.png)  
 
 ### Weather Details  
-![Weather Page](./screenshots/home.jpg)  
+![Weather Page](./screenshots/home.png)  
 
 📂 Project Structure
 lib/
